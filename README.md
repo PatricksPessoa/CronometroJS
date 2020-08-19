@@ -1,5 +1,3 @@
-# CronometroJS
-Um simples cronometro feito com JavaScript
 <div align="center">
     <img src="https://github.com/PatricksPessoa/Proffy/blob/master/public/images/logo.svg" width="300px"/>
 </div>
@@ -43,6 +41,7 @@ This project was developed with the following technologies:
   <summary>Web</summary>
 
 -   [VS Code](https://code.visualstudio.com/)
+-   [JavaScript](https://www.javascript.com/)
 
 </details>
 
